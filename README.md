@@ -1,4 +1,4 @@
-<img width=50% src="./ChiSkyline.jpg" alt="header"/>
+<!--<img width=50% src="./ChiSkyline.jpg" alt="header"/> -->
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I+am+Atulya+Prasad;Computer+Science+Student+@+UIC"/>
@@ -13,10 +13,10 @@
 </div>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,java,html,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,html,matlab,github,autocad,latex)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=sqlite,css,js)](https://skillicons.dev)
 
 
 ### Connect with me!
